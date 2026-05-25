@@ -9,3 +9,4 @@ cin>>n;
 if(n>=0){ cout<<"positive number";}
 else {cout<<"negative number";}
 }
+///okay check 
