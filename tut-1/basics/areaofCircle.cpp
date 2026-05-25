@@ -4,7 +4,6 @@ int main()
 {
   
   float r = 4.3;
-  ;
-  cout<<3.14*r*r;
-
+  float a = 3.14*r*r;
+  cout<<"area of circle is : "<<a<<endl;
 }
