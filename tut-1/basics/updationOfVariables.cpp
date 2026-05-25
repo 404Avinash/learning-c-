@@ -2,10 +2,15 @@
 using namespace std;
 int main()
 {
-    int x;
-    x=5;
-    int y;
-    y=9;
-    cout<<x*y;
-
+   int x = 5;
+   cout<<x<<endl;
+   x = 7;
+   
+    cout<<x<<endl;
+    x +=10;
+    cout<<x<<endl;
+    x-=8;
+    cout<<x<<endl;
+    x*=10;
+    cout<<x<<endl;
 }
