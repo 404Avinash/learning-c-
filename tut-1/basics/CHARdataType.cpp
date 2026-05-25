@@ -4,7 +4,7 @@ int main()
 {
 // 
 char x= 'a';
-cout<<x;
+cout<<(int)x;
 
 return 0;
 
